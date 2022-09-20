@@ -1,0 +1,9 @@
+D:\riq\Documentos - Rique\CursoDS(2MODULO)\Systems Development - Aquiles\Activity\Loteria\prjLoteria\bin\Debug\prjLoteria.exe.config
+D:\riq\Documentos - Rique\CursoDS(2MODULO)\Systems Development - Aquiles\Activity\Loteria\prjLoteria\bin\Debug\prjLoteria.exe
+D:\riq\Documentos - Rique\CursoDS(2MODULO)\Systems Development - Aquiles\Activity\Loteria\prjLoteria\bin\Debug\prjLoteria.pdb
+D:\riq\Documentos - Rique\CursoDS(2MODULO)\Systems Development - Aquiles\Activity\Loteria\prjLoteria\obj\Debug\prjLoteria.csprojResolveAssemblyReference.cache
+D:\riq\Documentos - Rique\CursoDS(2MODULO)\Systems Development - Aquiles\Activity\Loteria\prjLoteria\obj\Debug\prjLoteria.Form1.resources
+D:\riq\Documentos - Rique\CursoDS(2MODULO)\Systems Development - Aquiles\Activity\Loteria\prjLoteria\obj\Debug\prjLoteria.Properties.Resources.resources
+D:\riq\Documentos - Rique\CursoDS(2MODULO)\Systems Development - Aquiles\Activity\Loteria\prjLoteria\obj\Debug\prjLoteria.csproj.GenerateResource.Cache
+D:\riq\Documentos - Rique\CursoDS(2MODULO)\Systems Development - Aquiles\Activity\Loteria\prjLoteria\obj\Debug\prjLoteria.exe
+D:\riq\Documentos - Rique\CursoDS(2MODULO)\Systems Development - Aquiles\Activity\Loteria\prjLoteria\obj\Debug\prjLoteria.pdb
